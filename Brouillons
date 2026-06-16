@@ -1,0 +1,25 @@
+J'ai pris ici comme exemple le plus simple des cas. Il y a un départ et une arrivée et la pente de la piste ne change pas. Mettons donc en oevre, ce que nous avons vu auparavant. Dans nos expériences, nous connaitrons la masse du skieur, la longueur de la piste et le temps qu'à pris le skieur. Le temps et la masse peuvent varier selon les skieurs bien évidemment. Il nous faut à présent trouver l'accélération du skieur. Comme nous ne connaissons pas la vitesse d'arrivée, la formule nécessaire est la numéro \ref{dis_MRUA_long}:
+$$d=d_0+v_0t+\frac{at^2}{2}$$
+
+
+Comme dans notre cas le départ est au point 0, et la vitesse initiale est aussi de 0, on peut les "sortir" de l'équation, ce qui donne cela:
+$$\Delta d=\frac{at^2}{2}$$
+
+Et avec un peu d'algèbre, on peut isoler l'accelération:
+
+\begin{align}
+    \Delta d&=\frac{at^2}{2}\\
+    2\Delta d&=at^2\\
+    a&=\frac{2\Delta d}{t^2} 
+\end{align}
+
+
+
+
+
+Volume molaire eau: 
+liquide: 18.02 * 10^{-6}
+solide: 19.7 * 10^{-6}
+
+Enhalpie de fusion par mol pour eau:
+6010 J/mol
